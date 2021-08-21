@@ -1,0 +1,269 @@
+# depslib dependency file v1.0
+1335067117 source:c:\users\nick\desktop\ld23\src\load_resource.c
+	"main.h"
+
+1335198807 c:\users\nick\desktop\ld23\src\main.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<SDL/SDL.h>
+	<SDL/SDL_audio.h>
+	<SDL/SDL_Image.h>
+	<SDL/SDL_ttf.h>
+	<math.h>
+	"hashtab.h"
+	"level.h"
+	"sound.h"
+	"behaviors.h"
+
+1320633527 c:\users\nick\desktop\ld23\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1320633527 c:\users\nick\desktop\ld23\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1320633528 c:\users\nick\desktop\ld23\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1320633527 c:\users\nick\desktop\ld23\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1320633528 c:\users\nick\desktop\ld23\include\sdl\sdl_platform.h
+
+1320633528 c:\users\nick\desktop\ld23\include\sdl\begin_code.h
+
+1320633528 c:\users\nick\desktop\ld23\include\sdl\close_code.h
+
+1320633527 c:\users\nick\desktop\ld23\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1320633527 c:\users\nick\desktop\ld23\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1320633527 c:\users\nick\desktop\ld23\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1320633527 c:\users\nick\desktop\ld23\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1320633528 c:\users\nick\desktop\ld23\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1320633528 c:\users\nick\desktop\ld23\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1320633527 c:\users\nick\desktop\ld23\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1320633527 c:\users\nick\desktop\ld23\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1320633527 c:\users\nick\desktop\ld23\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1320633527 c:\users\nick\desktop\ld23\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1320633527 c:\users\nick\desktop\ld23\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1320633527 c:\users\nick\desktop\ld23\include\sdl\sdl_keysym.h
+
+1320633527 c:\users\nick\desktop\ld23\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1320633528 c:\users\nick\desktop\ld23\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1320633527 c:\users\nick\desktop\ld23\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1320633528 c:\users\nick\desktop\ld23\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1320633527 c:\users\nick\desktop\ld23\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1320633528 c:\users\nick\desktop\ld23\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1320633528 c:\users\nick\desktop\ld23\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1320633527 c:\users\nick\desktop\ld23\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1321174100 c:\users\nick\desktop\ld23\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1334966876 c:\users\nick\desktop\ld23\src\hashtab.h
+
+1335194569 source:c:\users\nick\desktop\ld23\src\hashtab.c
+	"main.h"
+
+1335781736 source:c:\users\nick\desktop\ld23\src\main.c
+	"main.h"
+	<time.h>
+
+1335178892 source:c:\users\nick\desktop\ld23\src\fonts.c
+	"main.h"
+
+1334983116 c:\users\nick\desktop\ld23\src\cjson.h
+
+1334983116 source:c:\users\nick\desktop\ld23\src\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	"cJSON.h"
+
+1335297945 source:c:\users\nick\desktop\ld23\src\level.c
+	"main.h"
+	"level.h"
+
+1335182018 c:\users\nick\desktop\ld23\src\level.h
+	"cJSON.h"
+	"sprite.h"
+
+1335207718 c:\users\nick\desktop\ld23\src\sprite.h
+
+1335782025 source:c:\users\nick\desktop\ld23\src\level_ui.c
+	"main.h"
+	"sprite.h"
+
+1335036149 source:c:\users\nick\desktop\ld23\src\sprite_draw.c
+	"main.h"
+
+1335781736 source:c:\users\nick\desktop\ld23\src\sprite.c
+	"main.h"
+	"level.h"
+	"sprite.h"
+
+1335198807 source:c:\users\nick\desktop\ld23\src\menus.c
+	"main.h"
+
+1335141875 c:\users\nick\desktop\ld23\src\sound.h
+
+1335781736 source:c:\users\nick\desktop\ld23\src\sound.c
+	"main.h"
+	"sound.h"
+
+1335153426 source:c:\users\nick\desktop\ld23\src\behaviors.c
+	"main.h"
+
+1335153426 c:\users\nick\desktop\ld23\src\behaviors.h
+

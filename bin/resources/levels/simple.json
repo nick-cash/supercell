@@ -1,0 +1,164 @@
+{
+    "name": "Simple Test Level",
+    "proto sprites": {
+        "player": {
+            "type": "player",
+            "spawn interval": 0,
+            "number to spawn": 1,
+            "start spawn time": 0,
+            "frame delay": 300,
+            "start position": {
+                "x": 400,
+                "y": 300
+            },
+            "velocity": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "powerup": {
+            "type":"speed-powerup",
+            "spawn interval":0,
+            "number to spawn":1,
+            "start spawn time":100,
+            "velocity": {
+                "x":-40,
+                "y":7
+            },
+            "start position": {
+                "x":850,
+                "y":200
+            },
+            "spawn vector": {
+                "x":20,
+                "y":22.222222222222
+            }
+        },
+        "enemy1": {
+            "type":"enemy",
+            "spawn interval":500,
+            "number to spawn":9,
+            "start spawn time":1972,
+            "velocity": {
+                "x":-40,
+                "y":7
+            },
+            "start position": {
+                "x":850,
+                "y":100
+            },
+            "spawn vector": {
+                "x":20,
+                "y":22.222222222222
+            }
+        },
+        "enemy2": {
+            "type":"cross",
+            "spawn interval":300,
+            "number to spawn":9,
+            "start spawn time":1000,
+            "velocity": {
+                "x":-20,
+                "y":-10
+            },
+            "start position": {
+                "x":850,
+                "y":500
+            },
+            "spawn vector": {
+                "x":20,
+                "y":22
+            }
+        },
+        "enemy3": {
+            "type":"nanobot1",
+            "spawn interval":300,
+            "number to spawn":9,
+            "start spawn time":3000,
+            "velocity": {
+                "x":-20,
+                "y":0
+            },
+            "start position": {
+                "x":850,
+                "y":500
+            },
+            "spawn vector": {
+                "x":10,
+                "y":10
+            }
+        },
+        "enemy4": {
+            "type":"nanobot2",
+            "spawn interval":300,
+            "number to spawn":9,
+            "start spawn time":5000,
+            "velocity": {
+                "x":-20,
+                "y":0
+            },
+            "start position": {
+                "x":850,
+                "y":300
+            },
+            "spawn vector": {
+                "x":10,
+                "y":10
+            }
+        },
+        "enemy5": {
+            "type":"blue-blob",
+            "spawn interval":600,
+            "number to spawn":12,
+            "start spawn time":8000,
+            "velocity": {
+                "x":-20,
+                "y":-10
+            },
+            "start position": {
+                "x":850,
+                "y":500
+            },
+            "spawn vector": {
+                "x":10,
+                "y":0
+            }
+        },
+        "enemy4": {
+            "type":"red-blob",
+            "spawn interval":500,
+            "number to spawn":9,
+            "start spawn time":9000,
+            "velocity": {
+                "x":-40,
+                "y":7
+            },
+            "start position": {
+                "x":850,
+                "y":100
+            },
+            "spawn vector": {
+                "x":20,
+                "y":22.222222222222
+            }
+        },
+        "enemy5": {
+            "type":"red-blob",
+            "spawn interval":500,
+            "number to spawn":9000,
+            "start spawn time":10000,
+            "velocity": {
+                "x":-25,
+                "y":0
+            },
+            "start position": {
+                "x":850,
+                "y":300
+            },
+            "spawn vector": {
+                "x":0,
+                "y":0
+            }
+        }
+    }
+}

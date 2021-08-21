@@ -1,0 +1,457 @@
+{"name":"Milky Way","proto sprites":
+{"player":
+{"type":"player","spawn interval":0,"number to spawn":1,"start spawn time":0,"start position":
+{"x":10,"y":300},"velocity":
+{"x":0,"y":0}},"enemy1":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":1972,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":100},"spawn vector":
+{"x":20,"y":22.222222222222}},"enemy2":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":1972,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":20,"y":-22.222222222222}},"enemy3":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":2958,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"0":200},"spawn vector":
+{"x":0,"y":20}},"enemy4":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":5916,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":100},"spawn vector":
+{"x":20,"y":22.222222222222}},"enemy5":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":5916,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":20,"y":-22.222222222222}},"enemy6":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":6902,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":100},"spawn vector":
+{"x":20,"y":22.222222222222}},"enemy7":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":6902,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":20,"y":-22.222222222222}},"enemy8":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":8874,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":100},"spawn vector":
+{"x":20,"y":22.222222222222}},"enemy9":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":8874,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":20,"y":-22.222222222222}},"enemy10":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":10846,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"0":200},"spawn vector":
+{"x":0,"y":20}},"enemy11":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":11339,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"0":200},"spawn vector":
+{"x":0,"y":20}},"enemy12":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":13311,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"0":200},"spawn vector":
+{"x":20,"y":0}},"enemy13":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":13311,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"0":200},"spawn vector":
+{"x":0,"y":20}},"enemy14":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":13804,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"0":200},"spawn vector":
+{"x":20,"y":0}},"enemy15":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":13804,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"0":200},"spawn vector":
+{"x":0,"y":20}},"enemy16":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":16269,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":100},"spawn vector":
+{"x":20,"y":22.222222222222}},"enemy17":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":16269,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":20,"y":-22.222222222222}},"enemy18":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":16762,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":100},"spawn vector":
+{"x":20,"y":22.222222222222}},"enemy19":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":16762,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":20,"y":-22.222222222222}},"enemy20":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":17255,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":100},"spawn vector":
+{"x":20,"y":22.222222222222}},"enemy21":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":17255,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":20,"y":-22.222222222222}},"enemy22":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":20706,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":100},"spawn vector":
+{"x":20,"y":22.222222222222}},"enemy23":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":20706,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":20,"y":-22.222222222222}},"enemy24":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":21199,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":100},"spawn vector":
+{"x":20,"y":22.222222222222}},"enemy25":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":21199,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":20,"y":-22.222222222222}},"enemy26":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":23664,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":100},"spawn vector":
+{"x":20,"y":22.222222222222}},"enemy27":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":23664,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":20,"y":-22.222222222222}},"enemy28":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":26622,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"0":200},"spawn vector":
+{"x":0,"y":20}},"enemy29":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":27115,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"0":200},"spawn vector":
+{"x":0,"y":20}},"enemy30":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":31059,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":100},"spawn vector":
+{"x":20,"y":22.222222222222}},"enemy31":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":31059,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":20,"y":-22.222222222222}},"enemy32":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":31552,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":100},"spawn vector":
+{"x":20,"y":22.222222222222}},"enemy33":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":31552,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":20,"y":-22.222222222222}},"enemy34":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":33524,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":100},"spawn vector":
+{"x":20,"y":22.222222222222}},"enemy35":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":33524,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":20,"y":-22.222222222222}},"enemy36":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":34017,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":100},"spawn vector":
+{"x":20,"y":22.222222222222}},"enemy37":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":34017,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":20,"y":-22.222222222222}},"enemy38":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":35496,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":100},"spawn vector":
+{"x":20,"y":22.222222222222}},"enemy39":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":35496,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":20,"y":-22.222222222222}},"enemy40":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":35989,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":100},"spawn vector":
+{"x":20,"y":22.222222222222}},"enemy41":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":35989,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":20,"y":-22.222222222222}},"enemy42":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":37468,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":100},"spawn vector":
+{"x":20,"y":22.222222222222}},"enemy43":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":37468,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":20,"y":-22.222222222222}},"enemy44":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":37961,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":100},"spawn vector":
+{"x":20,"y":22.222222222222}},"enemy45":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":37961,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":20,"y":-22.222222222222}},"enemy46":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":38454,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"0":200},"spawn vector":
+{"x":0,"y":20}},"enemy47":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":38947,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"0":200},"spawn vector":
+{"x":0,"y":20}},"enemy48":
+{"type":"enemy","spawn interval":54,"number to spawn":9,"start spawn time":39440,"velocity":
+{"x":-30,"y":5},"start position":
+{"x":850,"0":200},"spawn vector":
+{"x":0,"y":20}},"enemy49":
+{"type":"nanobot1","spawn interval":39,"number to spawn":10,"start spawn time":794,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"0":400},"spawn vector":
+{"x":30,"y":0}},"enemy50":
+{"type":"nanobot1","spawn interval":39,"number to spawn":10,"start spawn time":794,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"0":400},"spawn vector":
+{"x":0,"y":30}},"enemy51":
+{"type":"nanobot1","spawn interval":39,"number to spawn":10,"start spawn time":1191,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":30,"y":20}},"enemy52":
+{"type":"nanobot1","spawn interval":39,"number to spawn":10,"start spawn time":1191,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":500},"spawn vector":
+{"x":30,"y":-20}},"enemy53":
+{"type":"nanobot1","spawn interval":39,"number to spawn":10,"start spawn time":3573,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":30,"y":20}},"enemy54":
+{"type":"nanobot1","spawn interval":39,"number to spawn":10,"start spawn time":3573,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":500},"spawn vector":
+{"x":30,"y":-20}},"enemy55":
+{"type":"nanobot1","spawn interval":39,"number to spawn":10,"start spawn time":7543,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":30,"y":20}},"enemy56":
+{"type":"nanobot1","spawn interval":39,"number to spawn":10,"start spawn time":7543,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":500},"spawn vector":
+{"x":30,"y":-20}},"enemy57":
+{"type":"nanobot1","spawn interval":39,"number to spawn":10,"start spawn time":10719,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":30,"y":20}},"enemy58":
+{"type":"nanobot1","spawn interval":39,"number to spawn":10,"start spawn time":10719,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":500},"spawn vector":
+{"x":30,"y":-20}},"enemy59":
+{"type":"nanobot1","spawn interval":39,"number to spawn":10,"start spawn time":14292,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":30,"y":20}},"enemy60":
+{"type":"nanobot1","spawn interval":39,"number to spawn":10,"start spawn time":14292,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":500},"spawn vector":
+{"x":30,"y":-20}},"enemy61":
+{"type":"nanobot1","spawn interval":39,"number to spawn":10,"start spawn time":18659,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":30,"y":20}},"enemy62":
+{"type":"nanobot1","spawn interval":39,"number to spawn":10,"start spawn time":18659,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":500},"spawn vector":
+{"x":30,"y":-20}},"enemy63":
+{"type":"nanobot1","spawn interval":39,"number to spawn":10,"start spawn time":23026,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":30,"y":20}},"enemy64":
+{"type":"nanobot1","spawn interval":39,"number to spawn":10,"start spawn time":23026,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":500},"spawn vector":
+{"x":30,"y":-20}},"enemy65":
+{"type":"nanobot1","spawn interval":39,"number to spawn":10,"start spawn time":26202,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":30,"y":20}},"enemy66":
+{"type":"nanobot1","spawn interval":39,"number to spawn":10,"start spawn time":26202,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":500},"spawn vector":
+{"x":30,"y":-20}},"enemy67":
+{"type":"nanobot1","spawn interval":39,"number to spawn":10,"start spawn time":29378,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":30,"y":20}},"enemy68":
+{"type":"nanobot1","spawn interval":39,"number to spawn":10,"start spawn time":29378,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":500},"spawn vector":
+{"x":30,"y":-20}},"enemy69":
+{"type":"nanobot1","spawn interval":39,"number to spawn":10,"start spawn time":31760,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":30,"y":20}},"enemy70":
+{"type":"nanobot1","spawn interval":39,"number to spawn":10,"start spawn time":31760,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":500},"spawn vector":
+{"x":30,"y":-20}},"enemy71":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":3915,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"0":400},"spawn vector":
+{"x":30,"y":0}},"enemy72":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":3915,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"0":400},"spawn vector":
+{"x":0,"y":30}},"enemy73":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":4350,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":30,"y":20}},"enemy74":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":4350,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":500},"spawn vector":
+{"x":30,"y":-20}},"enemy75":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":5655,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"0":400},"spawn vector":
+{"x":30,"y":0}},"enemy76":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":5655,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"0":400},"spawn vector":
+{"x":0,"y":30}},"enemy77":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":6960,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":30,"y":20}},"enemy78":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":6960,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":500},"spawn vector":
+{"x":30,"y":-20}},"enemy79":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":8265,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"0":400},"spawn vector":
+{"x":30,"y":0}},"enemy80":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":8265,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"0":400},"spawn vector":
+{"x":0,"y":30}},"enemy81":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":11310,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":30,"y":20}},"enemy82":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":11310,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":500},"spawn vector":
+{"x":30,"y":-20}},"enemy83":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":14790,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":30,"y":20}},"enemy84":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":14790,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":500},"spawn vector":
+{"x":30,"y":-20}},"enemy85":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":16095,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"0":400},"spawn vector":
+{"x":0,"y":30}},"enemy86":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":18705,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":30,"y":20}},"enemy87":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":18705,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":500},"spawn vector":
+{"x":30,"y":-20}},"enemy88":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":20880,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"0":400},"spawn vector":
+{"x":30,"y":0}},"enemy89":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":20880,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"0":400},"spawn vector":
+{"x":0,"y":30}},"enemy90":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":23490,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":30,"y":20}},"enemy91":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":23490,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":500},"spawn vector":
+{"x":30,"y":-20}},"enemy92":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":28275,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":30,"y":20}},"enemy93":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":28275,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":500},"spawn vector":
+{"x":30,"y":-20}},"enemy94":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":31755,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":30,"y":20}},"enemy95":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":31755,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":500},"spawn vector":
+{"x":30,"y":-20}},"enemy96":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":35235,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":30,"y":20}},"enemy97":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":35235,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":500},"spawn vector":
+{"x":30,"y":-20}},"enemy98":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":37845,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":300},"spawn vector":
+{"x":30,"y":20}},"enemy99":
+{"type":"nanobot2","spawn interval":43,"number to spawn":10,"start spawn time":37845,"velocity":
+{"x":-30,"y":-5},"start position":
+{"x":850,"y":500},"spawn vector":
+{"x":30,"y":-20}},"enemy100":
+{"type":"enemy","spawn interval":51,"number to spawn":9,"start spawn time":459,"velocity":
+{"x":-10,"y":0},"start position":
+{"x":800,"y":500},"spawn vector":
+{"x":20,"y":22.222222222222}},"enemy101":
+{"type":"enemy","spawn interval":51,"number to spawn":9,"start spawn time":459,"velocity":
+{"x":-10,"y":0},"start position":
+{"x":800,"y":700},"spawn vector":
+{"x":20,"y":-22.222222222222}},"enemy102":
+{"type":"enemy","spawn interval":51,"number to spawn":9,"start spawn time":5508,"velocity":
+{"x":-10,"y":0},"start position":
+{"x":800,"y":500},"spawn vector":
+{"x":20,"y":22.222222222222}},"enemy103":
+{"type":"enemy","spawn interval":51,"number to spawn":9,"start spawn time":5508,"velocity":
+{"x":-10,"y":0},"start position":
+{"x":800,"y":700},"spawn vector":
+{"x":20,"y":-22.222222222222}},"enemy104":
+{"type":"enemy","spawn interval":51,"number to spawn":9,"start spawn time":14229,"velocity":
+{"x":-10,"y":0},"start position":
+{"x":800,"0":600},"spawn vector":
+{"x":20,"y":0}},"enemy105":
+{"type":"enemy","spawn interval":51,"number to spawn":9,"start spawn time":14229,"velocity":
+{"x":-10,"y":0},"start position":
+{"x":800,"0":600},"spawn vector":
+{"x":0,"y":20}},"enemy106":
+{"type":"enemy","spawn interval":51,"number to spawn":9,"start spawn time":14688,"velocity":
+{"x":-10,"y":0},"start position":
+{"x":800,"0":600},"spawn vector":
+{"x":20,"y":0}},"enemy107":
+{"type":"enemy","spawn interval":51,"number to spawn":9,"start spawn time":14688,"velocity":
+{"x":-10,"y":0},"start position":
+{"x":800,"0":600},"spawn vector":
+{"x":0,"y":20}},"enemy108":
+{"type":"enemy","spawn interval":51,"number to spawn":9,"start spawn time":22491,"velocity":
+{"x":-10,"y":0},"start position":
+{"x":800,"y":500},"spawn vector":
+{"x":20,"y":22.222222222222}},"enemy109":
+{"type":"enemy","spawn interval":51,"number to spawn":9,"start spawn time":22491,"velocity":
+{"x":-10,"y":0},"start position":
+{"x":800,"y":700},"spawn vector":
+{"x":20,"y":-22.222222222222}},"enemy110":
+{"type":"enemy","spawn interval":51,"number to spawn":9,"start spawn time":31212,"velocity":
+{"x":-10,"y":0},"start position":
+{"x":800,"y":500},"spawn vector":
+{"x":20,"y":22.222222222222}},"enemy111":
+{"type":"enemy","spawn interval":51,"number to spawn":9,"start spawn time":31212,"velocity":
+{"x":-10,"y":0},"start position":
+{"x":800,"y":700},"spawn vector":
+{"x":20,"y":-22.222222222222}},"enemy112":
+{"type":"enemy","spawn interval":51,"number to spawn":9,"start spawn time":37638,"velocity":
+{"x":-10,"y":0},"start position":
+{"x":800,"y":500},"spawn vector":
+{"x":20,"y":22.222222222222}},"enemy113":
+{"type":"enemy","spawn interval":51,"number to spawn":9,"start spawn time":37638,"velocity":
+{"x":-10,"y":0},"start position":
+{"x":800,"y":700},"spawn vector":
+{"x":20,"y":-22.222222222222}}}}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="src\cJSON.c" open="0" top="0" tabpos="0">
+		<Cursor position="1624" topLine="36" />
+	</File>
+	<File name="src\cJSON.h" open="0" top="0" tabpos="0">
+		<Cursor position="1448" topLine="40" />
+	</File>
+	<File name="src\fonts.c" open="0" top="0" tabpos="3">
+		<Cursor position="958" topLine="51" />
+	</File>
+	<File name="src\hashtab.c" open="0" top="0" tabpos="9">
+		<Cursor position="2241" topLine="116" />
+	</File>
+	<File name="src\hashtab.h" open="0" top="0" tabpos="10">
+		<Cursor position="296" topLine="1" />
+	</File>
+	<File name="src\level.c" open="1" top="0" tabpos="4">
+		<Cursor position="915" topLine="17" />
+	</File>
+	<File name="src\level.h" open="0" top="0" tabpos="2">
+		<Cursor position="1446" topLine="23" />
+	</File>
+	<File name="src\level_ui.c" open="1" top="1" tabpos="1">
+		<Cursor position="9575" topLine="397" />
+	</File>
+	<File name="src\load_resource.c" open="0" top="0" tabpos="4">
+		<Cursor position="198" topLine="6" />
+	</File>
+	<File name="src\main.c" open="0" top="0" tabpos="5">
+		<Cursor position="3102" topLine="147" />
+	</File>
+	<File name="src\main.h" open="0" top="0" tabpos="6">
+		<Cursor position="808" topLine="19" />
+	</File>
+	<File name="src\menus.c" open="1" top="0" tabpos="6">
+		<Cursor position="28467" topLine="564" />
+	</File>
+	<File name="src\sound.c" open="1" top="0" tabpos="5">
+		<Cursor position="3338" topLine="154" />
+	</File>
+	<File name="src\sound.h" open="0" top="0" tabpos="0">
+		<Cursor position="409" topLine="13" />
+	</File>
+	<File name="src\sprite.c" open="1" top="0" tabpos="2">
+		<Cursor position="10434" topLine="286" />
+	</File>
+	<File name="src\sprite.h" open="1" top="0" tabpos="3">
+		<Cursor position="163" topLine="0" />
+	</File>
+	<File name="src\sprite_draw.c" open="0" top="0" tabpos="0">
+		<Cursor position="55" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

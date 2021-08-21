@@ -1,0 +1,38 @@
+{
+    "name": "test",
+    "proto sprites": {
+        "player": {
+            "type": "player",
+            "spawn interval": 0,
+            "number to spawn": 1,
+            "start spawn time": 0,
+            "start position": {
+                "x":    600,
+                "y":    10
+            },
+            "velocity": {
+                "x":    0,
+                "y":    0
+            }
+        },
+        "enemy1": {
+            "type": "enemy",
+            "spawn interval": 500,
+            "number to spawn": 8000,
+            "start spawn time": 200,
+            "spawn vector": {
+                "x":    0,
+                "y":    0
+            },
+            "start position": {
+                "x":    340,
+                "y":    200
+            },
+            "velocity": {
+                "x":    10.5,
+                "y":    2.5
+            }
+        }
+    }
+}
+
